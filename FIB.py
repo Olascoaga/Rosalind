@@ -19,5 +19,3 @@ def fibo(n, k):
 		return(one_gen + second_gen)
 
 	return (one_gen + (second_gen * k))
-
-print(fibo(5, 3))
