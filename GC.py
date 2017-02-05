@@ -1,3 +1,9 @@
+"""
+Problem: Computing GC Content
+ID: GC
+URL: http://rosalind.info/problems/gc/
+Solution author: Samael Olascoaga
+"""
 with open('file.txr', 'r') as problem:
 	nucleotides = ''
 	ident = ''
